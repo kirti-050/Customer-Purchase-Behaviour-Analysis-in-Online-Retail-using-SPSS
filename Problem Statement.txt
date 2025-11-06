@@ -1,0 +1,1 @@
+Problem Statement - To identify the high value customer and preparing the dataset for further modeling.
